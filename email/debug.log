@@ -1,0 +1,5 @@
+[1205/144258.102:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1205/150726.695:ERROR:file_io_win.cc(180)] CreateFile C:\Users\flavi\AppData\Local\Temp\scoped_dir7248_909073069\Crashpad\settings.dat: O arquivo já está sendo usado por outro processo. (0x20)
+[1205/151726.696:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1205/164337.324:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1205/164630.918:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
