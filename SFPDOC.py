@@ -31,10 +31,7 @@ driver.find_element(By.ID, "dropdownMenuButton").click()
 driver.implicitly_wait(1)
 driver.find_element(By.CSS_SELECTOR, '[placeholder="Pesquisar modelo..."]').send_keys("cap" + Keys.DOWN + Keys.ENTER)
 
-#pdb.set_trace()
 
-
-#pdb.set_trace()
 driver.implicitly_wait(1)
 driver.find_element(By.ID, "Assunto").send_keys("Nota Fiscal Paulista")
 driver.implicitly_wait(2)
